@@ -12,3 +12,7 @@ A also utlized git to commit several versions of the project. The commit message
 
 I enjoyed this project and will expand upon it with several more recipes in the future. It would be nice to host all of my recipes in one place, 
 that way I can easily send a link to the homepage for others to enjoy.
+
+12/3/24
+
+Added CSS styling to the site.

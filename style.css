@@ -1,0 +1,32 @@
+
+/* Global font control */
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+.buffalo {
+    color: gold;
+}
+
+.pancakes {
+    color: brown;
+    background-color: wheat;
+}
+
+.spcass {
+    color: orange;
+}
+
+.desc {
+    color: purple;
+    background-color: lavender;
+}
+
+.ing,
+.steps {
+    background-color: forestgreen;
+}
