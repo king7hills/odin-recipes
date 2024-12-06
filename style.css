@@ -2,31 +2,52 @@
 /* Global font control */
 * {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 32px;
+    max-width: 1000px;
+    margin: auto auto;
 }
 
 h1 {
     font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+    margin: 32px;
+}
+
+.recipelist {
+    font-size: large;
+    margin: 100px;
 }
 
 .buffalo {
     color: gold;
+    padding: 12px
 }
 
 .pancakes {
     color: brown;
     background-color: wheat;
-}
+    background-clip: padding-box;
+    margin: auto;
+    padding: 20px;
+   }
 
 .spcass {
     color: orange;
+    padding: 12px
 }
 
 .desc {
     color: purple;
     background-color: lavender;
+    background-clip: padding-box;
+    padding: 16px;
+    margin: 0px auto;
 }
 
 .ing,
 .steps {
     background-color: forestgreen;
+    background-clip: padding-box;
+    padding: 16px;
 }
